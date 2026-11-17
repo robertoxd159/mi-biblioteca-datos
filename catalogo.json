@@ -38,6 +38,17 @@
       "portada": "https://images.unsplash.com/photo-1618519764620-0508abdbdfe9?w=500",
       "url_descarga": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "sinopsis": "Primer volumen de la serie gráfica de suspenso y acción urbana."
+    },
+    {
+      "id": "book_3",
+      "titulo": "Superman",
+      "autor": "Anthony Robbins",
+      "categoria": "Ficción",
+      "formato": "pdf",
+      "rating": "4.8",
+      "portada": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500",
+      "url_descarga": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "sinopsis": "Una historia fascinante sobre viajes espaciales y el descubrimiento de nuevos mundos más allá de nuestra galaxia."
     }
   ]
 }
